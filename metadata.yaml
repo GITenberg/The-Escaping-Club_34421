@@ -1,0 +1,33 @@
+_repo: The-Escaping-Club_34421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, A. J. (Alfred John)
+    alias: Evans, Alfred John
+    birthdate: 1889
+    gutenberg_agent_id: '37016'
+    url: http://www.gutenberg.org/2009/agents/37016
+description: '"The author provides a first hand account of his capture, imprisonment,
+  and eventual escape from a German World War I prison camp. Evans discusses the daily
+  existence for prisoners of war and the strategies and cooperation used to escape."
+  (PsycINFO Database Record (c) 2012 APA, all rights reserved).'
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34421'
+  lccn: '22010258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+- !lcsh 'Prisoner-of-war escapes'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, Turkish'
+title: The Escaping Club
+url: http://www.gutenberg.org/ebooks/34421
